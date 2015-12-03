@@ -1,15 +1,22 @@
 {
   "ads": [
-
+    {
+      "appName": "CHU Camera",
+      "pubName": "CHUMOB CO., LTD.",
+      "icon": "https://lh3.googleusercontent.com/dGtz9g1iLPJR0tzAwQxalxCSLMBYpyrbKIlQBjyRL5zdtARuA1AgLCtqI1RaAywWc7I=w300",
+      "description": "CHU Camera is the all in one Photo Editor with many amazing filter and effects!",
+      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/feature-chucamera.jpg",
+      "packageName": "me.chumob.camera.PhotoEditor.PhotoCollage",
+      "promotionLink": "https://play.google.com/store/apps/details?id=me.chumob.camera.PhotoEditor.PhotoCollage"
+    }
   ],
-  "promotedPackage": "",
-  "promotedLink": "",
-  "autoRandom": "1",
+  "promotedPackage": "me.chumob.camera.PhotoEditor.PhotoCollage",
+  "promotedLink": "https://play.google.com/store/apps/details?id=me.chumob.camera.PhotoEditor.PhotoCollage",
+  "autoRandom": "0",
   "homeAd": {
     "homeAdType": "0",
     "HomeAdDescription": "0: no load any ad - 1: load 3 apps StartApp - 2: load my 3 custom apps @@@ Default is StartApp (1)",
-    "myCustomApps": [
-    ]
+    "myCustomApps": []
   },
   "frameSetting": {
     "description": "Default is in code and number of frames for per category is 18",
@@ -17,29 +24,29 @@
       {
         "frameName": "Christmas",
         "frameCode": "christmas",
-        "icon":"ic_sticker_tab_christmas",
-        "ratio":"3:4",
+        "icon": "ic_sticker_tab_christmas",
+        "ratio": "3:4",
         "size": "18"
       },
       {
         "frameName": "Happy New year",
         "frameCode": "happynewyear",
-        "icon":"ic_happynewyear",
-        "ratio":"3:4",
+        "icon": "ic_happynewyear",
+        "ratio": "3:4",
         "size": "12"
       },
       {
         "frameName": "Nature",
         "frameCode": "nature",
-        "icon":"ic_natural",
-        "ratio":"3:4",
+        "icon": "ic_natural",
+        "ratio": "3:4",
         "size": "18"
       },
       {
         "frameName": "Flower",
         "frameCode": "flower",
-        "icon":"ic_sticker_tab_love",
-        "ratio":"3:4",
+        "icon": "ic_sticker_tab_love",
+        "ratio": "3:4",
         "size": "18"
       }
     ]
