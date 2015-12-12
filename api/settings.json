@@ -50,5 +50,9 @@
         "size": "18"
       }
     ]
+  },
+  "photoIPSetting": {
+  	"description": "Default is in code and number of frames for per category is 18",
+  	"countSize":"2"
   }
 }
