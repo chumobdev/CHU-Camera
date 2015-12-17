@@ -1,0 +1,14 @@
+{
+  "description": "Template type - 1: Photo Frame; 2: Photo IP",
+  "structure": "Key structure x - x.demo.png: for demo template; x.mask.png: for mask using in Photo IP; x.top.png: for top using for photo IP and photo frame",
+  "ratio":"Ration equal width / height, float value",
+  "template": [
+    {
+    	"type":"1",
+    	"key":"1",
+    	"ratio":"1",
+    	"title":"Pray for Paris",
+    	"description": "This feature for Paris"
+    }
+  ]
+}
