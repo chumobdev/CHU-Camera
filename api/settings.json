@@ -8,6 +8,15 @@
       "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/feature-chucamera.jpg",
       "packageName": "me.chumob.camera.PhotoEditor.PhotoCollage",
       "promotionLink": "https://play.google.com/store/apps/details?id=me.chumob.camera.PhotoEditor.PhotoCollage"
+    },
+    {
+      "appName": "Image Editor PIP",
+      "pubName": "CHUMOB CO., LTD.",
+      "icon": "https://lh3.googleusercontent.com/-k5Q1eh7FjdQ6BEbk6CWSXdsXcgu3rYXVNsNqyOpy7QVCy2SpNRxBN8pJLpnGvsYPhDY=w300",
+      "description": "Image Editor is a powerful collage maker designed to be the Android alternative to Window Photoshop or Gimp.",
+      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/feature-image_editor.png",
+      "packageName": "chumob.image.editor.blur.effect",
+      "promotionLink": "https://play.google.com/store/apps/details?id=chumob.image.editor.blur.effect"
     }
   ],
   "promotedPackage": "me.chumob.camera.PhotoEditor.PhotoCollage",
