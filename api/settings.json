@@ -1,6 +1,15 @@
 {
   "ads": [
     {
+      "appName": "Photo Blender",
+      "pubName": "CHUMOB CO., LTD.",
+      "icon": "https://lh3.googleusercontent.com/fabNO8jPwY84mOCTQ7cUkfG9VmAzb--q4s8Vb8NsWjP4GPyMEopnHsRSfCmx1UvECCw=w300",
+      "description": "Photo Blender is a minimal app for creating double or multi exposure images by blending or mixing photos.",
+      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/feature-photo_blender.png",
+      "packageName": "chumob.photo.blender",
+      "promotionLink": "https://play.google.com/store/apps/details?id=chumob.photo.blender"
+    },
+    {
       "appName": "CHU Camera",
       "pubName": "CHUMOB CO., LTD.",
       "icon": "https://lh3.googleusercontent.com/dGtz9g1iLPJR0tzAwQxalxCSLMBYpyrbKIlQBjyRL5zdtARuA1AgLCtqI1RaAywWc7I=w300",
@@ -19,8 +28,8 @@
       "promotionLink": "https://play.google.com/store/apps/details?id=chumob.image.editor.blur.effect"
     }
   ],
-  "promotedPackage": "me.chumob.camera.PhotoEditor.PhotoCollage",
-  "promotedLink": "https://play.google.com/store/apps/details?id=me.chumob.camera.PhotoEditor.PhotoCollage",
+  "promotedPackage": "chumob.photo.blender",
+  "promotedLink": "https://play.google.com/store/apps/details?id=chumob.photo.blender",
   "autoRandom": "0",
   "homeAd": {
     "homeAdType": "0",
@@ -61,7 +70,7 @@
     ]
   },
   "photoIPSetting": {
-  	"description": "Default is in code and number of frames for per category is 18",
-  	"countSize":"15"
+    "description": "Default is in code and number of frames for per category is 18",
+    "countSize": "15"
   }
 }
