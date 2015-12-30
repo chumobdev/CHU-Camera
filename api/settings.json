@@ -69,6 +69,60 @@
       }
     ]
   },
+  "stickerSetting": {
+    "myStickers": [
+      {
+        "stickerName": "Accessories",
+        "stickerCode": "accessories",
+        "size": "11"
+      },
+      {
+        "stickerName": "Christmas",
+        "stickerCode": "christmas",
+        "size": "19"
+      },
+      {
+        "stickerName": "Emotion",
+        "stickerCode": "emotion",
+        "size": "24"
+      },
+      {
+        "stickerName": "Funny",
+        "stickerCode": "funny",
+        "size": "10"
+      },
+      {
+        "stickerName": "Heart",
+        "stickerCode": "heart",
+        "size": "20"
+      },
+      {
+        "stickerName": "Love",
+        "stickerCode": "love",
+        "size": "27"
+      },
+      {
+        "stickerName": "Monster",
+        "stickerCode": "monster",
+        "size": "30"
+      },
+      {
+        "stickerName": "Quotes",
+        "stickerCode": "quotes",
+        "size": "26"
+      },
+      {
+        "stickerName": "Summer",
+        "stickerCode": "summer",
+        "size": "13"
+      },
+      {
+        "stickerName": "Valentine",
+        "stickerCode": "valentine",
+        "size": "10"
+      }
+    ]
+  },
   "photoIPSetting": {
     "description": "Default is in code and number of frames for per category is 18",
     "countSize": "15"
