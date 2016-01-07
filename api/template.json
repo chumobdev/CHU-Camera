@@ -1,14 +1,16 @@
 {
-  "description": "Template type - 1: Photo Frame; 2: Photo IP",
+  "description": "Template type - 0: Photo Editor; 1: Photo Frame; 2: Photo IP",
   "structure": "Key structure x - x.demo.png: for demo template; x.mask.png: for mask using in Photo IP; x.top.png: for top using for photo IP and photo frame",
-  "ratio":"Ration equal width / height, float value",
+  "templateType":"templateType structure: 0: Free; 1: Need watch ad",
+  "baseFolderURL":"baseFolderURL is top url folder",
+  "codeName":"codeName is name of child item - demo.png: for demo photo; frame.png: source for photo frame; top.png, mask.png: source for Photo IP",
   "template": [
     {
-    	"type":"1",
-    	"key":"1",
-    	"ratio":"1",
+    	"id":"1",
     	"title":"Pray for Paris",
-    	"description": "This feature for Paris"
+    	"codeName":"Pray4Paris",
+    	"type":"1",
+    	"templateType":"0"
     }
   ]
 }
