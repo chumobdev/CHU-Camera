@@ -4,13 +4,15 @@
   "templateType":"templateType structure: 0: Free; 1: Need watch ad",
   "baseFolderURL":"baseFolderURL is top url folder",
   "codeName":"codeName is name of child item - demo.png: for demo photo; frame.png: source for photo frame; top.png, mask.png: source for Photo IP",
+  "ratioType":"ratioType is size of screen - 0: R3_4; 1: R1_1; 2: 4_3",
   "template": [
     {
     	"id":"1",
     	"title":"Pray for Paris",
     	"codeName":"Pray4Paris",
     	"type":"1",
-    	"templateType":"0"
+    	"templateType":"0",
+      "ratioType":"1"
     }
   ]
 }
