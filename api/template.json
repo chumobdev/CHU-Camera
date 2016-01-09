@@ -72,14 +72,6 @@
     },
     {
       "id":"9",
-      "title":"Pray for Paris",
-      "codeName":"Pray4Paris",
-      "editorType":"1",
-      "templateType":"0",
-      "ratioType":"0"
-    },
-    {
-      "id":"10",
       "title":"Simply",
       "codeName":"Simply",
       "editorType":"1",
@@ -87,7 +79,7 @@
       "ratioType":"0"
     },
     {
-      "id":"11",
+      "id":"10",
       "title":"Summer Flower",
       "codeName":"SummerFlower",
       "editorType":"1",
