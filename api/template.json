@@ -13,6 +13,86 @@
     	"editorType":"1",
     	"templateType":"0",
       "ratioType":"1"
+    },
+    {
+      "id":"2",
+      "title":"CHU CHUCamera",
+      "codeName":"CHUCamera",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"3",
+      "title":"Dream",
+      "codeName":"Dream",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"4",
+      "title":"Hello",
+      "codeName":"Hello",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"5",
+      "title":"Journey",
+      "codeName":"Journey",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"6",
+      "title":"Leisure Time",
+      "codeName":"LeisureTime",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"7",
+      "title":"Life Is A Journey",
+      "codeName":"LifeIsAJourney",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"8",
+      "title":"Merry Christmas",
+      "codeName":"MerryChristmas",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"9",
+      "title":"Pray for Paris",
+      "codeName":"Pray4Paris",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"10",
+      "title":"Simply",
+      "codeName":"Simply",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
+    },
+    {
+      "id":"11",
+      "title":"Summer Flower",
+      "codeName":"SummerFlower",
+      "editorType":"1",
+      "templateType":"0",
+      "ratioType":"0"
     }
   ]
 }
