@@ -16,7 +16,7 @@
     },
     {
       "id":"2",
-      "title":"CHU CHUCamera",
+      "title":"CHU Camera",
       "codeName":"CHUCamera",
       "editorType":"1",
       "templateType":"0",
@@ -27,7 +27,7 @@
       "title":"Dream",
       "codeName":"Dream",
       "editorType":"1",
-      "templateType":"0",
+      "templateType":"1",
       "ratioType":"0"
     },
     {
@@ -51,7 +51,7 @@
       "title":"Leisure Time",
       "codeName":"LeisureTime",
       "editorType":"1",
-      "templateType":"0",
+      "templateType":"1",
       "ratioType":"0"
     },
     {
@@ -75,7 +75,7 @@
       "title":"Simply",
       "codeName":"Simply",
       "editorType":"1",
-      "templateType":"0",
+      "templateType":"1",
       "ratioType":"0"
     },
     {
@@ -83,7 +83,7 @@
       "title":"Summer Flower",
       "codeName":"SummerFlower",
       "editorType":"1",
-      "templateType":"0",
+      "templateType":"1",
       "ratioType":"0"
     }
   ]
