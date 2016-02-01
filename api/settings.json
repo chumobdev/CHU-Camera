@@ -40,6 +40,12 @@
     "description": "Default is in code and number of frames for per category is 18",
     "myFrames": [
       {
+        "frameName": "Happy New year",
+        "frameCode": "happynewyear",
+        "icon": "ic_happynewyear",
+        "ratio": "3:4",
+        "size": "12"
+      },{
         "frameName": "Christmas",
         "frameCode": "christmas",
         "icon": "ic_sticker_tab_christmas",
@@ -47,11 +53,11 @@
         "size": "18"
       },
       {
-        "frameName": "Happy New year",
-        "frameCode": "happynewyear",
+        "frameName": "Valentine",
+        "frameCode": "valentine",
         "icon": "ic_happynewyear",
-        "ratio": "3:4",
-        "size": "12"
+        "ratio": "1:1",
+        "size": "23"
       },
       {
         "frameName": "Nature",
