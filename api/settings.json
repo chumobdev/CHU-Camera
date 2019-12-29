@@ -10,13 +10,13 @@
       "promotionLink": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
     },
     {
-      "appName": "CHU Camera",
-      "pubName": "CHUMOB CO., LTD.",
-      "icon": "https://lh3.googleusercontent.com/dGtz9g1iLPJR0tzAwQxalxCSLMBYpyrbKIlQBjyRL5zdtARuA1AgLCtqI1RaAywWc7I=w300",
-      "description": "CHU Camera is the all in one Photo Editor with many amazing filter and effects!",
-      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/feature-chucamera.jpg",
-      "packageName": "me.chumob.camera.PhotoEditor.PhotoCollage",
-      "promotionLink": "https://play.google.com/store/apps/details?id=me.chumob.camera.PhotoEditor.PhotoCollage"
+      "appName": "Light Crown Photo Editor",
+      "pubName": "Photo Collage Master",
+      "icon": "https://lh3.googleusercontent.com/aN8jfvJlGu1YsgbACmcztFrVymy0F0ZkcPcB3gY4ugmDnhHptlqJJrGRrJ00Dq3mJyc=s360-rw",
+      "description": "Light Crown Editor has given you the chance to look super kawaii with hundred of light crown effect, light body crown and angle crown.",
+      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/lightcrown.png",
+      "packageName": "pcm.light.crown.photo.editor",
+      "promotionLink": "https://play.google.com/store/apps/details?id=pcm.light.crown.photo.editor"
     },
     {
       "appName": "Image Editor PIP",
