@@ -1,13 +1,13 @@
 {
   "ads": [
     {
-      "appName": "Photo Blender",
-      "pubName": "CHUMOB CO., LTD.",
-      "icon": "https://lh3.googleusercontent.com/fabNO8jPwY84mOCTQ7cUkfG9VmAzb--q4s8Vb8NsWjP4GPyMEopnHsRSfCmx1UvECCw=w300",
-      "description": "Photo Blender is a minimal app for creating double or multi exposure images by blending or mixing photos.",
-      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/feature-photo_blender.png",
-      "packageName": "chumob.photo.blender",
-      "promotionLink": "https://play.google.com/store/apps/details?id=chumob.photo.blender"
+      "appName": "Face Emoji Photo Editor",
+      "pubName": "Photo Collage Master",
+      "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
+      "description": "Face Emoji Stickers is fast and easy to use app to create amazing emoji background effect pictures.",
+      "promotionPhoto": "https://raw.githubusercontent.com/TrendsBeauty/TrendsBeautyCo/master/promotion/res/graphice.png",
+      "packageName": "pcm.face.emoji.photo.editor",
+      "promotionLink": "https://play.google.com/store/apps/details?id=pcm.face.emoji.photo.editor"
     },
     {
       "appName": "CHU Camera",
