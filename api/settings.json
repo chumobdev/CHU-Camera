@@ -1,6 +1,15 @@
 {
   "ads": [
     {
+      "appName": "Filter for Snapchat",
+      "pubName": "PIXEL PHOTO PRO",
+      "icon": "https://lh3.googleusercontent.com/BojCCIqCqv8SDCPGcbwp6m3lkejTXNkkfQqLUqPrLUqa1C-98lkUYGEAWt0zqRNUoNY=s360-rw",
+      "description": "Snapchat Filters for fantastic photos with Funny face filters. FREE for a limited time! Get alot of filters like dogs,rabbit,eyes,hair,wolf... You ever wanted to have!",
+      "promotionPhoto": "https://raw.githubusercontent.com/chumobdev/CHU-Camera/master/api/res/agle.png",
+      "packageName": "frame.art.master.filter.sweet.camera",
+      "promotionLink": "https://play.google.com/store/apps/details?id=frame.art.master.filter.sweet.camera"
+    },
+    {
       "appName": "Face Emoji Photo Editor",
       "pubName": "Photo Collage Master",
       "icon": "https://lh3.googleusercontent.com/oUumwu8K50ptpuE8xZO5cIzRoR32sez8sIgZGmZ7L260ASxpRoNQCUFqzdJDnnb9ZA=s360-rw",
